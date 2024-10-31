@@ -1,10 +1,10 @@
-package com.korugan.tflitemodel
+package com.korugan.tflitemodel.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.korugan.tflitemodel.ui.theme.TfliteModelTheme
+import com.korugan.tflitemodel.presentation.ui.theme.TfliteModelTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.korugan.tflitemodel.ui.theme
+package com.korugan.tflitemodel.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
